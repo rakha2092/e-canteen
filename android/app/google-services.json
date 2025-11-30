@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332358236",
+    "project_id": "ecanteen-362458302092-rakha",
+    "storage_bucket": "ecanteen-362458302092-rakha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332358236:android:c5d05838fe35beb63cbc99",
+        "android_client_info": {
+          "package_name": "com.example.e_canteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpomBN20xtYXjmDFtYQQhMM_wDDKC6XXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
